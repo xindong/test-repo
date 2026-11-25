@@ -6,5 +6,9 @@
   "lfs-128m.bin": {
     "bytes": 134217728,
     "sha256": "9861a549413a3cb894537dd8c2c3f516db57ceaa2df19b30ad367896c360b4a4"
+  },
+  "lfs-2g.bin": {
+    "bytes": 2147483648,
+    "sha256": "fda8d2fbb186656dc8fa2b8fa94a9127e056df1592e524ceb5dfefd7e3459393"
   }
 }
