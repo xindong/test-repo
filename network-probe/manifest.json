@@ -1,0 +1,10 @@
+{
+  "git-16m.bin": {
+    "bytes": 16777216,
+    "sha256": "375615eef8951b0b61a0a29d5c5aea58f00cdf362f570bb070aaaf04a93ac15a"
+  },
+  "lfs-128m.bin": {
+    "bytes": 134217728,
+    "sha256": "9861a549413a3cb894537dd8c2c3f516db57ceaa2df19b30ad367896c360b4a4"
+  }
+}
